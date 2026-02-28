@@ -41,7 +41,15 @@ www-data
 This confirms that user input is passed directly into a system command without proper validation.
 
 ---
+## 📸 Screenshots
 
+### Normal Ping
+![Normal Ping](cmd-normal.png)
+
+### Command Injection
+![Command Injection](cmd-injection.png)
+
+---
 ## ⚠️ Impact
 
 An attacker could:
